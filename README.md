@@ -8,5 +8,5 @@ Responsive Form <br>
 <hr>
 <br>
 Screenshots<br>
-![desktop](https://github.com/ahmetmetinarslan/responsive-form/blob/main/Responsive%20Form/Screenshots/s.png?raw=true)<br>
+![s-1](https://github.com/ahmetmetinarslan/responsive-form/blob/main/Responsive%20Form/Screenshots/s.png?raw=true)<br>
 ![mobile](https://github.com/ahmetmetinarslan/responsive-form/blob/main/Responsive%20Form/Screenshots/ms.png?raw=true)
