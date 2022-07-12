@@ -7,5 +7,5 @@ Responsive Form <br>
 -In this study, the site was made responsive using css.<br><br>
 <hr>
 <br>
-Secreenshots<br>
-![desktop](https://github.com/ahmetmetinarslan/responsive-form/blob/main/Responsive%20Form/Screenshots/s.png?raw=true)
+Screenshots<br>
+![alt text]([http://url/to/img.png](https://github.com/ahmetmetinarslan/responsive-form/blob/main/Responsive%20Form/Screenshots/s.png?raw=true))
