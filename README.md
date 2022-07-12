@@ -8,4 +8,4 @@ Responsive Form <br>
 <hr>
 <br>
 Screenshots<br>
-![alt text]([http://url/to/img.png](https://github.com/ahmetmetinarslan/responsive-form/blob/main/Responsive%20Form/Screenshots/s.png?raw=true))
+![alt text](https://github.com/ahmetmetinarslan/responsive-form/blob/main/Responsive%20Form/Screenshots/s.png?raw=true)
